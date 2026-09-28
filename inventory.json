@@ -1,0 +1,41 @@
+{
+  "date": "daily assessment sample",
+  "items": {
+    "Vanilla Cake": {
+      "available": true,
+      "stock": 5
+    },
+    "Chocolate Cake": {
+      "available": true,
+      "stock": 3
+    },
+    "Red Velvet Cake": {
+      "available": false,
+      "stock": 0
+    },
+    "Chocolate Cupcake": {
+      "available": true,
+      "stock": 24
+    },
+    "Vanilla Cupcake": {
+      "available": true,
+      "stock": 18
+    },
+    "Sourdough Bread": {
+      "available": false,
+      "stock": 0
+    },
+    "Garlic Bread": {
+      "available": true,
+      "stock": 8
+    },
+    "Croissant": {
+      "available": true,
+      "stock": 12
+    },
+    "Blueberry Muffin": {
+      "available": true,
+      "stock": 10
+    }
+  }
+}

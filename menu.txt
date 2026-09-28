@@ -1,0 +1,21 @@
+Sunshine Bakery Menu
+
+Cakes
+- Vanilla Cake — Classic vanilla cake. $25.00 each.
+- Chocolate Cake — Rich chocolate cake. $30.00 each.
+- Red Velvet Cake — Cream cheese frosting with red velvet sponge. $32.00 each.
+
+Cupcakes
+- Chocolate Cupcake — Chocolate cupcake with chocolate frosting. $3.50 each or $36.00/dozen.
+- Vanilla Cupcake — Vanilla cupcake with vanilla frosting. $3.00 each or $32.00/dozen.
+
+Breads
+- Sourdough Bread — Fresh artisan sourdough loaf. $6.00 each.
+- Garlic Bread — Fresh baked garlic bread. $5.00 each.
+
+Pastries
+- Croissant — Buttery classic croissant. $4.00 each.
+- Blueberry Muffin — Fresh blueberry muffin. $3.50 each.
+
+Note:
+Prices listed above are the official Sunshine Bakery menu prices for this assessment.
